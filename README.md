@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anthi-P
-- 👀 I’m interested in Biology, Coding, AI and all these mixed together!
-- 🌱 I’m currently MSc student in AI for Biomedicine and Healthcare
+- 👋 Hi, I’m Anthi
+- 👀 I’m interested in Biology and AI and their combos!
+- 🌱 I’m currently MSc student in AI for Biomedicine and Healthcare at UCL
 - 📫 How to reach me: anthipapouli@gmail.com
 
 <!---
