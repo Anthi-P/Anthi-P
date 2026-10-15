@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anthi
 - 👀 I’m interested in Biology and AI and their combos!
 - 🧬 I have a BSc in Biological Sciences from Imperial College London
-- 👩🏼‍💻 I just completed my MSc in AI for Biomedicine and Healthcare at UCL
-- 📍I'm currently wroking as a Research Assistant at the MANIFOLD lab at UCL
+- 👩🏼‍💻 I completed my MSc in AI for Biomedicine and Healthcare at UCL
+- 👩🏼‍💻 I'm currently pursuing my PhD in AI for Neuroimaging at UCL 
 - 📫 How to reach me: anthipapouli@gmail.com
 
 <!---
